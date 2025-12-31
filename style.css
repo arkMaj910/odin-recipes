@@ -1,16 +1,18 @@
 body{
-    background-color: #deb887;
+    background-color: rgb(16, 24, 40);
 }
 
-h1{
-    color: #23508b;
+.title{
+    color: white;
     text-align: center;
+    font-family: Helvetica, sans-serif;
+}
+
+a:link{
+    color: rgb(109, 109, 239);
 }
 
 .links{
-    border: 2px solid black;
-    width: 200px;
-    margin: auto;
-    padding: 10px;
+    font-size: large;
     font: sans-serif, arial;
 }
