@@ -4,4 +4,13 @@ body{
 
 h1{
     color: #23508b;
+    text-align: center;
+}
+
+.links{
+    border: 2px solid black;
+    width: 200px;
+    margin: auto;
+    padding: 10px;
+    font: sans-serif, arial;
 }
